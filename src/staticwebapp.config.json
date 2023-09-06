@@ -4,12 +4,12 @@
             "customOpenIdConnectProviders": {
                 "auth0": {
                     "registration": {
-                        "clientIdSettingName": "AUTH0_ID",
+                        "clientIdSettingName": "F5_ID",
                         "clientCredential": {
-                            "clientSecretSettingName": "AUTH0_SECRET"
+                            "clientSecretSettingName": "F5_SECRET"
                         },
                         "openIdConnectConfiguration": {
-                            "wellKnownOpenIdConfiguration": "https://zealous-sea-015216710.3.azurestaticapps.net/.well-known/openid-configuration"
+                            "wellKnownOpenIdConfiguration": "https://dvprimary.bne.catholic.edu.au/f5-oauth2/v2.0/.well-known/openid-configuration"
                         }
                     },
                     "login": {
