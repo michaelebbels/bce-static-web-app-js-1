@@ -4,12 +4,12 @@
             "customOpenIdConnectProviders": {
                 "auth0": {
                     "registration": {
-                        "clientIdSettingName": "AUTH0_ID",
+                        "clientIdSettingName": "F5_ID",
                         "clientCredential": {
-                            "clientSecretSettingName": "AUTH0_SECRET"
+                            "clientSecretSettingName": "F5_SECRET"
                         },
                         "openIdConnectConfiguration": {
-                            "wellKnownOpenIdConfiguration": "https://dev-e74b7vxf8u5fiae7.us.auth0.com/.well-known/openid-configuration"
+                            "wellKnownOpenIdConfiguration": "https://dvprimary.bne.catholic.edu.au/.well-known/openid-configuration"
                         }
                     },
                     "login": {
