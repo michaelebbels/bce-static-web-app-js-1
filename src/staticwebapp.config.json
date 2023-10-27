@@ -9,7 +9,7 @@
                             "clientSecretSettingName": "F5_SECRET"
                         },
                         "openIdConnectConfiguration": {
-                            "wellKnownOpenIdConfiguration": "https://dvprimary.bne.catholic.edu.au/f5-oauth2/v2.0/.well-known/openid-configuration"
+                            "wellKnownOpenIdConfiguration": "https://dvas.bne.catholic.edu.au/f5-oauth2/v2.0/.well-known/openid-configuration"
                         }
                     },
                     "login": {
